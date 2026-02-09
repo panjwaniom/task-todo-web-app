@@ -104,7 +104,7 @@ export default function Dashboard() {
                 <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
                     <div className="flex justify-between h-20">
                         <div className="flex items-center space-x-3">
-                            <div className="bg-gradient-to-br from-primary to-accent p-2 rounded-lg">
+                            <div className="bg-primary p-2 rounded-lg">
                                 <Layout className="w-6 h-6 text-white" />
                             </div>
                             <span className="text-2xl font-bold text-white">

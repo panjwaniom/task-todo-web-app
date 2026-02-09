@@ -29,10 +29,6 @@ export default function Login() {
                 transition={{ duration: 0.5 }}
                 className="max-w-md w-full glass-card p-8 rounded-2xl relative overflow-hidden"
             >
-                {/* Decorative background blob */}
-                <div className="absolute -top-20 -right-20 w-40 h-40 bg-primary/20 rounded-full blur-3xl"></div>
-                <div className="absolute -bottom-20 -left-20 w-40 h-40 bg-accent/20 rounded-full blur-3xl"></div>
-
                 <div className="relative z-10">
                     <div className="text-center mb-8">
                         <h2 className="text-3xl font-bold text-white">

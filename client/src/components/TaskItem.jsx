@@ -41,7 +41,7 @@ export default function TaskItem({ task, isCompleting, onUpdate, onDelete }) {
 
                     <div className="flex items-center space-x-4 mt-3">
                         {task.due_date && (
-                            <div className={`flex items-center text-xs ${isCompleted ? 'text-neutral' : 'text-primary-hover'} bg-primary/10 px-2 py-1 rounded-md`}>
+                            <div className={`flex items-center text-xs ${isCompleted ? 'text-neutral' : 'text-primary'} bg-primary/10 px-2 py-1 rounded-md`}>
                                 <Clock className="w-3 h-3 mr-1.5" />
                                 <span>Complete by {format(new Date(task.due_date), 'MMM d, h:mm a')}</span>
                             </div>

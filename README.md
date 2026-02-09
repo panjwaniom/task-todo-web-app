@@ -77,7 +77,23 @@ http://localhost:5173
 
 ## 📸 Screenshots
 
-Screenshots will be added after deployment.
+### 🔐 Login Page
+<img src="Screenshots/login.png" width="900"/>
+
+---
+
+### 📝 Dashboard (Pending Tasks)
+<img src="Screenshots/dashboard.png" width="900"/>
+
+---
+
+### ✅ Completed Tasks
+<img src="Screenshots/completed.png" width="900"/>
+
+---
+
+### ➕ Task Creation with Date/Time Picker
+<img src="Screenshots/task-form.png" width="900"/>
 
 ---
 

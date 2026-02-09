@@ -22,13 +22,13 @@ export default {
                     300: '#f5f5f5', // Light gray
                 },
                 primary: {
-                    DEFAULT: '#14b8a6', // Teal 500
-                    hover: '#0d9488', // Teal 600
-                    light: 'rgba(20, 184, 166, 0.08)',
+                    DEFAULT: '#9b1c1c', // Maroon
+                    hover: '#7f1d1d', // Darker Maroon
+                    light: 'rgba(155, 28, 28, 0.08)',
                 },
                 accent: {
-                    DEFAULT: '#2dd4bf', // Teal 400
-                    hover: '#14b8a6', // Teal 500
+                    DEFAULT: '#7f1d1d', // Dark Maroon
+                    hover: '#9b1c1c', // Maroon
                 },
                 neutral: {
                     DEFAULT: '#737373', // Medium gray

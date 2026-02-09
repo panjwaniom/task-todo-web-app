@@ -52,7 +52,7 @@ export default function TaskForm({ onAddTask }) {
             onSubmit={handleSubmit}
             className="glass-card p-6 rounded-2xl mb-8 relative group"
         >
-            <div className="absolute top-0 left-0 w-1 h-full bg-gradient-to-b from-primary to-accent opacity-0 group-hover:opacity-100 transition-opacity" />
+            <div className="absolute top-0 left-0 w-1 h-full bg-primary opacity-0 group-hover:opacity-100 transition-opacity" />
 
             <div className="flex flex-col space-y-4">
                 <div className="relative">
